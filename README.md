@@ -12,6 +12,14 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 
 
 ## Decision-Coupled / Sequential / Global Latent Vector
+### 2026
+
+- :robot: **LeWorldModel**: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels.
+**[arXiv'26]**
+[[Paper](https://arxiv.org/abs/2603.19312)]
+[[Project Page](https://le-wm.github.io/)]
+[[Code](https://github.com/lucas-maes/le-wm)]
+
 ### 2025
 
 - :robot: **DisWM**: Disentangled World Models: Learning to Transfer Semantic Knowledge from Distracting Videos for Reinforcement Learning.
@@ -209,6 +217,14 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 
 
 ## Decision-Coupled / Sequential / Token Feature Sequence
+### 2026
+
+- :robot: **DreamZero**: World Action Models are Zero-shot Policies.
+**[arXiv'26]**
+[[Paper](https://arxiv.org/abs/2602.15922)]
+[[Project Page](https://dreamzero0.github.io/)]
+[[Code](https://github.com/dreamzero0/dreamzero)]
+
 ### 2025
 
 - :robot: **EgoAgent**: A Joint Predictive Agent Model in Egocentric Worlds.
@@ -440,6 +456,13 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 
 
 ## Decision-Coupled / Sequential / Spatial Latent Grid
+### 2026
+- :robot: **PointWorld**: Scaling 3D World Models for In-The-Wild Robotic Manipulation.
+**[CVPR'26]**
+[[Paper](https://arxiv.org/abs/2601.03782)]
+[[Project Page](https://point-world.github.io/)]
+[[Code](https://github.com/NVlabs/PointWorld)]
+
 ### 2025
 - :robot: **ParticleFormer**: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation.
 **[CoRL'25]**
@@ -602,6 +625,14 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 [[Video](https://www.youtube.com/watch?v=gW9AHF2zDFY)]
 
 ## Decision-Coupled / Global / Token Feature Sequence
+### 2026
+
+- :robot: **Cosmos Policy**: Fine-Tuning Video Models for Visuomotor Control and Planning.
+**[arXiv'26]**
+[[Paper](https://arxiv.org/abs/2601.16163)]
+[[Project Page](https://research.nvidia.com/labs/dir/cosmos-policy/)]
+[[Code](https://github.com/NVlabs/cosmos-policy)]
+
 ### 2025
 
 - :robot: **LaDi-WM**: A Latent Diffusion-based World Model for Predictive Manipulation.
@@ -876,6 +907,14 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 
 
 ## General-Purpose / Sequential / Spatial Latent Grid
+### 2026
+
+- :robot: **EgoSim**: Egocentric World Simulator for Embodied Interaction Generation.
+**[ECCV'26]**
+[[Paper](https://arxiv.org/abs/2604.01001)]
+[[Project Page](https://egosimulator.github.io/)]
+[[Code](https://github.com/jinkun-hao/EgoSim)]
+
 ### 2025
 
 - :car: **STAGE**: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation.
@@ -968,9 +1007,19 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 [[Project Page](https://spmem.github.io/)]
 
 
-
-
 ## General-Purpose / Global / Token Feature Sequence
+### 2026
+- :robot: **Cosmos 3**: Omnimodal World Models for Physical AI.
+**[arXiv'26]**
+[[Paper](https://arxiv.org/abs/2606.02800)]
+[[Project Page](https://research.nvidia.com/labs/cosmos-lab/cosmos3/)]
+[[Code](https://github.com/nvidia/cosmos)]
+
+- :clapper: **V-JEPA 2.1**: Unlocking Dense Features in Video Self-Supervised Learning.
+**[arXiv'26]**
+[[Paper](https://arxiv.org/abs/2603.14482)]
+[[Code](https://github.com/facebookresearch/vjepa2)]
+
 ### 2025
 - :clapper: **MarsGen**: Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions.
 **[NeurIPS'25]**
