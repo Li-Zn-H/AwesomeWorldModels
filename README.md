@@ -219,11 +219,28 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 ## Decision-Coupled / Sequential / Token Feature Sequence
 ### 2026
 
+- :robot: **DreamDojo**: A Generalist Robot World Model from Large-Scale Human Videos.
+**[arXiv'26]**
+[[Paper](https://arxiv.org/abs/2602.06949)]
+[[Project Page](https://dreamdojo-world.github.io/)]
+[[Code](https://github.com/nvidia/dreamdojo)]
+
+- :robot: **$\tau_0$-WM**: A Unified Video-Action World Model for Robotic Manipulation.
+**[arXiv'26]**
+[[Paper](https://arxiv.org/abs/2606.01027)]
+[[Project Page](https://finch.agibot.com/research/tau0-wm)]
+[[Code](https://github.com/sii-research/tau-0-wm)]
+
 - :robot: **DreamZero**: World Action Models are Zero-shot Policies.
 **[arXiv'26]**
 [[Paper](https://arxiv.org/abs/2602.15922)]
 [[Project Page](https://dreamzero0.github.io/)]
 [[Code](https://github.com/dreamzero0/dreamzero)]
+
+- :robot: **WoVR**: World Models as Reliable Simulators for Post-Training VLA Policies with RL.
+**[arXiv'26]**
+[[Paper](https://arxiv.org/abs/2602.13977)]
+[[Code](https://github.com/RLinf/RLinf)]
 
 ### 2025
 
@@ -733,6 +750,20 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 
 
 ## General-Purpose / Sequential / Token Feature Sequence
+### 2026
+
+- :robot: **Interactive World Simulator**: Robot Policy Training and Evaluation.
+**[RSS'26]**
+[[Paper](https://arxiv.org/abs/2603.08546)]
+[[Project Page](https://www.yixuanwang.me/interactive_world_sim/)]
+[[Code](https://github.com/WangYixuan12/interactive_world_sim)]
+
+- :car: **OmniDreams**: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation.
+**[arXiv'26]**
+[[Paper](https://arxiv.org/abs/2606.03159)]
+[[Project Page](https://research.nvidia.com/labs/sil/projects/omnidreams-blog/)]
+[[Code](https://github.com/nv-tlabs/omni-dreams)]
+
 ### 2025
 
 - :car: **Orbis**: Overcoming Challenges of Long-Horizon Prediction in Driving World Models.
@@ -1088,6 +1119,11 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 
 ## General-Purpose / Global / Spatial Latent Grid
 ### 2025
+- :car: **GAIA-2**: A Controllable Multi-View Generative World Model for Autonomous Driving.
+**[arXiv'25]**
+[[Paper](https://arxiv.org/abs/2503.20523)]
+[[Project Page](https://wayve.ai/thinking/gaia-2/)]
+
 - :car: **HERMES**: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation.
 **[ICCV'25]**
 [[Paper](https://arxiv.org/abs/2501.14729)]
@@ -1200,6 +1236,14 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 
 
 ## General-Purpose / Global / Decomposed Rendering Representation
+### 2026
+
+- :clapper: **HY-World 2.0**: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds.
+**[arXiv'26]**
+[[Paper](https://arxiv.org/abs/2604.14268)]
+[[Project Page](https://3d-models.hunyuan.tencent.com/world/)]
+[[Code](https://github.com/Tencent-Hunyuan/HY-World-2.0)]
+
 ### 2025
 
 - :car: **DriveDreamer4D**: World Models Are Effective Data Machines for 4D Driving Scene Representation.
