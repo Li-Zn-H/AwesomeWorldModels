@@ -242,6 +242,17 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 [[Paper](https://arxiv.org/abs/2602.13977)]
 [[Code](https://github.com/RLinf/RLinf)]
 
+- :robot: **World-VLA-Loop**: Closed-Loop Learning of Video World Model and VLA Policy.
+**[arXiv'26]**
+[[Paper](https://arxiv.org/abs/2602.06508)]
+[[Project Page](https://showlab.github.io/World-VLA-Loop/)]
+
+- :robot: **RISE**: Self-Improving Robot Policy with Compositional World Model.
+**[RSS'26]**
+[[Paper](https://arxiv.org/abs/2602.11075)]
+[[Project Page](https://opendrivelab.com/RISE/)]
+[[Code](https://github.com/OpenDriveLab/RISE)]
+
 ### 2025
 
 - :robot: **EgoAgent**: A Joint Predictive Agent Model in Egocentric Worlds.
@@ -644,6 +655,12 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 ## Decision-Coupled / Global / Token Feature Sequence
 ### 2026
 
+- :robot: **LDA-1B**: Scaling Latent Dynamics Action Model via Universal Embodied Data Ingestion.
+**[RSS'26]**
+[[Paper](https://arxiv.org/abs/2602.12215)]
+[[Project Page](https://pku-epic.github.io/LDA/)]
+[[Code](https://github.com/jiangranlv/LDA-1B)]
+
 - :robot: **Cosmos Policy**: Fine-Tuning Video Models for Visuomotor Control and Planning.
 **[arXiv'26]**
 [[Paper](https://arxiv.org/abs/2601.16163)]
@@ -689,6 +706,13 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 [[Project Page](https://thomasrantian.github.io/TOKEN_MM-LLM_for_AutoDriving/)]
 
 ## Decision-Coupled / Global / Spatial Latent Grid
+### 2026
+
+- :car: **DriveWorld-VLA**: Unified Latent-Space World Modeling with Vision-Language-Action for Autonomous Driving.
+**[arXiv'26]**
+[[Paper](https://arxiv.org/abs/2602.06521)]
+[[Code](https://github.com/liulin815/DriveWorld-VLA)]
+
 ### 2025
 
 - :robot: **TesserAct**: Learning 4D Embodied World Models.
@@ -757,6 +781,10 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 [[Paper](https://arxiv.org/abs/2603.08546)]
 [[Project Page](https://www.yixuanwang.me/interactive_world_sim/)]
 [[Code](https://github.com/WangYixuan12/interactive_world_sim)]
+
+- :robot: **RoboWorld**: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation.
+**[ICMLW'26]**
+[[Paper](https://arxiv.org/abs/2607.01060)]
 
 - :car: **OmniDreams**: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation.
 **[arXiv'26]**
@@ -1045,6 +1073,11 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 [[Paper](https://arxiv.org/abs/2606.02800)]
 [[Project Page](https://research.nvidia.com/labs/cosmos-lab/cosmos3/)]
 [[Code](https://github.com/nvidia/cosmos)]
+
+- :robot: **Qwen-RobotWorld**: Unifying Embodied World Modeling through Language-Conditioned Video Generation.
+**[arXiv'26]**
+[[Paper](https://arxiv.org/abs/2606.17030)]
+[[Project Page](https://qwen.ai/blog?id=qwen-robotworld)]
 
 - :clapper: **V-JEPA 2.1**: Unlocking Dense Features in Video Self-Supervised Learning.
 **[arXiv'26]**
