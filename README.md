@@ -253,7 +253,19 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 [[Project Page](https://opendrivelab.com/RISE/)]
 [[Code](https://github.com/OpenDriveLab/RISE)]
 
+- :compass: **Planning with the Views**: View Planning with Multi-Turn VLM Agents.
+**[arXiv'26]**
+[[Paper](https://arxiv.org/abs/2605.29563)]
+[[Project Page](https://viewagent.github.io/)]
+[[Code](https://github.com/mll-lab-nu/ViewAgent)]
+
 ### 2025
+
+- :robot: **VAGEN**: Reinforcing World Model Reasoning for Multi-Turn VLM Agents.
+**[NeurIPS'25]**
+[[Paper](https://arxiv.org/abs/2510.16907)]
+[[Project Page](https://vagen-ai.github.io/)]
+[[Code](https://github.com/mll-lab-nu/VAGEN)]
 
 - :robot: **EgoAgent**: A Joint Predictive Agent Model in Egocentric Worlds.
 **[ICCV'25]**
