@@ -219,6 +219,12 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 ## Decision-Coupled / Sequential / Token Feature Sequence
 ### 2026
 
+- :robot: **ST-WAM**: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts.
+**[arXiv'26]**
+[[Paper](https://arxiv.org/abs/2607.28993)]
+[[Project Page](https://thu-wangmx.github.io/st-wam/)]
+[[Code](https://github.com/Thu-WangMX/ST-WAM-Semantic-Temporal-World-Action-Model)]
+
 - :robot: **DreamDojo**: A Generalist Robot World Model from Large-Scale Human Videos.
 **[arXiv'26]**
 [[Paper](https://arxiv.org/abs/2602.06949)]
