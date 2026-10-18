@@ -219,6 +219,10 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 ## Decision-Coupled / Sequential / Token Feature Sequence
 ### 2026
 
+- :robot: **MolmoMotion**: Forecasting Point Trajectories in 3D with Language Instruction.
+**[NeurIPS'26 Spotlight]**
+[[Paper](https://arxiv.org/abs/2606.18558)]
+
 - :car: **DriveVA**: Video Action Models are Zero-Shot Drivers.
 **[ECCV'26]**
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19)]
