@@ -219,6 +219,11 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 ## Decision-Coupled / Sequential / Token Feature Sequence
 ### 2026
 
+- :car: **DriveVA**: Video Action Models are Zero-Shot Drivers.
+**[ECCV'26]**
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19)]
+[[Code](https://github.com/xiaomi-mlab/DriveVA)]
+
 - :robot: **ST-WAM**: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts.
 **[arXiv'26]**
 [[Paper](https://arxiv.org/abs/2607.28993)]
