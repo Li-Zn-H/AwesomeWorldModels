@@ -219,6 +219,12 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 ## Decision-Coupled / Sequential / Token Feature Sequence
 ### 2026
 
+- :robot: **EVA**: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards.
+**[arXiv'26]**
+[[Paper](https://arxiv.org/abs/2603.17808)]
+[[Project Page](https://eva-project-page.github.io/)]
+[[Code](https://github.com/RobbinW/EVA)]
+
 - :robot: **MolmoMotion**: Forecasting Point Trajectories in 3D with Language Instruction.
 **[NeurIPS'26 Spotlight]**
 [[Paper](https://arxiv.org/abs/2606.18558)]
@@ -681,6 +687,12 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 
 ## Decision-Coupled / Global / Token Feature Sequence
 ### 2026
+
+- :robot: **UNITAS**: A 3D-Native World Action Model for Embodied Manipulation.
+**[arXiv'26]**
+[[Paper](https://arxiv.org/abs/2610.12099)]
+[[Project Page](https://unitas-wam.github.io/)]
+[[Code](https://github.com/DexForce/UNITAS)]
 
 - :robot: **LDA-1B**: Scaling Latent Dynamics Action Model via Universal Embodied Data Ingestion.
 **[RSS'26]**
