@@ -682,6 +682,18 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 ## Decision-Coupled / Global / Token Feature Sequence
 ### 2026
 
+- :robot: **UNITAS**: A 3D-Native World Action Model for Embodied Manipulation.
+**[arXiv'26]**
+[[Paper](http://arxiv.org/abs/2610.12099)]
+[[Project Page](http://unitas-wam.github.io/)]
+[[Code](http://github.com/DexForce/UNITAS)]
+
+- :robot: **EVA**: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards.
+**[arXiv'26]**
+[[Paper](http://arxiv.org/abs/2603.17808)]
+[[Project Page](http://eva-project-page.github.io/)]
+[[Code](http://github.com/RobbinW/EVA)]
+
 - :robot: **LDA-1B**: Scaling Latent Dynamics Action Model via Universal Embodied Data Ingestion.
 **[RSS'26]**
 [[Paper](https://arxiv.org/abs/2602.12215)]
