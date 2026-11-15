@@ -831,6 +831,11 @@ This repository accompanies our survey, [**A Comprehensive Survey on World Model
 [[Project Page](https://research.nvidia.com/labs/sil/projects/omnidreams-blog/)]
 [[Code](https://github.com/nv-tlabs/omni-dreams)]
 
+- :clapper: **FlockWorld**: Toward Population-Scale Multi-Agent Video World Models through Artificial Life Simulation.
+**[NeurIPS'26]**
+[[Paper](https://arxiv.org/abs/2610.34564)]
+[[Code](https://github.com/wangyz1999/flockworld)]
+
 ### 2025
 
 - :car: **Orbis**: Overcoming Challenges of Long-Horizon Prediction in Driving World Models.
